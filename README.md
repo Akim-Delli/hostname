@@ -1,5 +1,4 @@
 Build the image
-
 docker build . -t hostname
 docker tag hostname:localhost hostname:v1
 
